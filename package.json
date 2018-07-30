@@ -1,0 +1,14 @@
+{
+  "name": "gulp_course",
+  "version": "0.0.1",
+  "description": "A Project to showcase workflow",
+  "author": "Bishoy Farouk",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  }
+}
